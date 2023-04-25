@@ -16,8 +16,8 @@
             <tr>
                 <td>
                     PRIMER PARCIAL TEM-742<br>
-                    Nombre: Maximo Baldomero Yujra Calla<br>
-                    Carnet: 9879538
+                    Nombre: Luis Alex Chura Quispe<br>
+                    Carnet: 9246232
                 </td>
             </tr>
         </table>
